@@ -1,5 +1,5 @@
 // D. Auto-changing country names
-const placeNames = ["Iraq", "Pakistan", "China", "Ukrine", "Afghanistan"];
+const placeNames = ["Iraq", "Pakistan", "China", "South Korea", "Afghanistan"];
 let currentIndex = 0;
 
 setInterval(() => {
